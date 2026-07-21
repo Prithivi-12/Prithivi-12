@@ -46,7 +46,7 @@ public class Prithiviraj {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,python,html,css,bootstrap,mysql,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,spring,js,python,html,css,bootstrap,mysql,git,github,vscode&perline=7"/>
 
 </div>
 
@@ -64,13 +64,6 @@ public class Prithiviraj {
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prithivi-12&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prithivi-12&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
 
 ---
 
